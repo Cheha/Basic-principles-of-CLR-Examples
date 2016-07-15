@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_25_Do_while_statement\bin\Debug\Example_25_Do_while_statement.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_25_Do_while_statement\bin\Debug\Example_25_Do_while_statement.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_25_Do_while_statement\bin\Debug\Example_25_Do_while_statement.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_25_Do_while_statement\obj\Debug\Example_25_Do_while_statement.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_25_Do_while_statement\obj\Debug\Example_25_Do_while_statement.pdb

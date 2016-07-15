@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_9_Character_types\bin\Debug\Example_9_Character_types.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_9_Character_types\bin\Debug\Example_9_Character_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_9_Character_types\bin\Debug\Example_9_Character_types.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_9_Character_types\obj\Debug\Example_9_Character_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_9_Character_types\obj\Debug\Example_9_Character_types.pdb

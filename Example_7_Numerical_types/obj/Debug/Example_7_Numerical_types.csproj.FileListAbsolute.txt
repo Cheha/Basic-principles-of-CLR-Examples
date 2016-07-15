@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_7_Numerical_types\bin\Debug\Example_7_Numerical_types.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_7_Numerical_types\bin\Debug\Example_7_Numerical_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_7_Numerical_types\bin\Debug\Example_7_Numerical_types.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_7_Numerical_types\obj\Debug\Example_7_Numerical_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_7_Numerical_types\obj\Debug\Example_7_Numerical_types.pdb

@@ -1,0 +1,10 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Release\Example_24_While_loop_3.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Release\Example_24_While_loop_3.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Release\Example_24_While_loop_3.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Release\Example_24_While_loop_3.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Release\Example_24_While_loop_3.pdb

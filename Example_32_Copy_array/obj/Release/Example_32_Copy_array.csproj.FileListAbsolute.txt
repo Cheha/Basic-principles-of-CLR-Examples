@@ -1,0 +1,11 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_32_Copy_array\obj\Release\Example_32_Copy_array.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_32_Copy_array\obj\Release\Example_32_Copy_array.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\obj\Release\Example_32_Copy_array.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\obj\Release\Example_32_Copy_array.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\bin\Release\Example_32_Copy_array.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_32_Copy_array\obj\Release\Example_32_Copy_array.csprojResolveAssemblyReference.cache

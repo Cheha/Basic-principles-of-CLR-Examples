@@ -1,0 +1,10 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_12_Literals_pt2\obj\Release\Example_12_Literals_pt2.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_12_Literals_pt2\obj\Release\Example_12_Literals_pt2.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12_Literals_pt2\bin\Release\Example_12_Literals_pt2.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12_Literals_pt2\obj\Release\Example_12_Literals_pt2.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12_Literals_pt2\obj\Release\Example_12_Literals_pt2.pdb

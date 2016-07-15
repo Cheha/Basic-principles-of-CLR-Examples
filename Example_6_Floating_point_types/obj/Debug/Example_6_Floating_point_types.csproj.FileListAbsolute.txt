@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_6_Floating_point_types\bin\Debug\Example_6_Floating_point_types.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_6_Floating_point_types\bin\Debug\Example_6_Floating_point_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_6_Floating_point_types\bin\Debug\Example_6_Floating_point_types.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_6_Floating_point_types\obj\Debug\Example_6_Floating_point_types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_6_Floating_point_types\obj\Debug\Example_6_Floating_point_types.pdb

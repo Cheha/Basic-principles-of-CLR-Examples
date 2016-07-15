@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_5_Integers\bin\Debug\Example_5_Integers.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_5_Integers\bin\Debug\Example_5_Integers.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_5_Integers\bin\Debug\Example_5_Integers.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_5_Integers\obj\Debug\Example_5_Integers.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_5_Integers\obj\Debug\Example_5_Integers.pdb

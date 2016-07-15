@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Debug\Example_24_While_loop_3.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Debug\Example_24_While_loop_3.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\bin\Debug\Example_24_While_loop_3.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Debug\Example_24_While_loop_3.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_24_While_loop_3\obj\Debug\Example_24_While_loop_3.pdb

@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_29_Array_searching\bin\Debug\Example_29_Array_searching.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_29_Array_searching\bin\Debug\Example_29_Array_searching.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_29_Array_searching\bin\Debug\Example_29_Array_searching.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_29_Array_searching\obj\Debug\Example_29_Array_searching.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_29_Array_searching\obj\Debug\Example_29_Array_searching.pdb

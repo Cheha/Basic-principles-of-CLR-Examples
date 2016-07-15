@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_17_Modulus_operator\bin\Debug\Example_17_Modulus_operator.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_17_Modulus_operator\bin\Debug\Example_17_Modulus_operator.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_17_Modulus_operator\bin\Debug\Example_17_Modulus_operator.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_17_Modulus_operator\obj\Debug\Example_17_Modulus_operator.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_17_Modulus_operator\obj\Debug\Example_17_Modulus_operator.pdb

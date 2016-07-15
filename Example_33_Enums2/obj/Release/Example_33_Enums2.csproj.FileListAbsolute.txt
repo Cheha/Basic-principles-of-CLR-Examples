@@ -1,0 +1,10 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums2\obj\Release\Example_33_Enums2.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums2\obj\Release\Example_33_Enums2.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_33_Enums2\bin\Release\Example_33_Enums2.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_33_Enums2\obj\Release\Example_33_Enums2.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_33_Enums2\obj\Release\Example_33_Enums2.pdb

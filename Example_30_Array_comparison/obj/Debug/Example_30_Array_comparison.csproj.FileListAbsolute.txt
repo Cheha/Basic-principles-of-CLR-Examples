@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_30_Array_comparison\bin\Debug\Example_30_Array_comparison.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_30_Array_comparison\bin\Debug\Example_30_Array_comparison.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_30_Array_comparison\bin\Debug\Example_30_Array_comparison.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_30_Array_comparison\obj\Debug\Example_30_Array_comparison.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_30_Array_comparison\obj\Debug\Example_30_Array_comparison.pdb

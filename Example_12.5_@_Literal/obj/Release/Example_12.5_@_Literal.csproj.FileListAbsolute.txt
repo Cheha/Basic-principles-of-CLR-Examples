@@ -1,0 +1,5 @@
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12.5_@_Literal\bin\Release\Example_12.5_@_Literal.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12.5_@_Literal\bin\Release\Example_12.5_@_Literal.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12.5_@_Literal\bin\Release\Example_12.5_@_Literal.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12.5_@_Literal\obj\Release\Example_12.5_@_Literal.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_12.5_@_Literal\obj\Release\Example_12.5_@_Literal.pdb

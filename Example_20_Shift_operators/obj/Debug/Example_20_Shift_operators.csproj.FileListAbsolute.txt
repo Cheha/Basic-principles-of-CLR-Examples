@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_20_Shift_operators\bin\Debug\Example_20_Shift_operators.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_20_Shift_operators\bin\Debug\Example_20_Shift_operators.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_20_Shift_operators\bin\Debug\Example_20_Shift_operators.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_20_Shift_operators\obj\Debug\Example_20_Shift_operators.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_20_Shift_operators\obj\Debug\Example_20_Shift_operators.pdb

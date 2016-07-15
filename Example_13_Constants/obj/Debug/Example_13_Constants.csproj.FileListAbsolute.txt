@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_13_Constants\bin\Debug\Example_13_Constants.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_13_Constants\bin\Debug\Example_13_Constants.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_13_Constants\bin\Debug\Example_13_Constants.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_13_Constants\obj\Debug\Example_13_Constants.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_13_Constants\obj\Debug\Example_13_Constants.pdb

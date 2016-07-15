@@ -1,0 +1,10 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_1_First_Program\obj\Release\Example_1_First_Program.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_1_First_Program\obj\Release\Example_1_First_Program.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_1_First_Program\bin\Release\Example_1_First_Program.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_1_First_Program\obj\Release\Example_1_First_Program.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_1_First_Program\obj\Release\Example_1_First_Program.pdb

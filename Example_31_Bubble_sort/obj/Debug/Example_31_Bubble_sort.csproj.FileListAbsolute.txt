@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_31_Bubble_sort\bin\Debug\Example_31_Bubble_sort.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_31_Bubble_sort\bin\Debug\Example_31_Bubble_sort.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_31_Bubble_sort\bin\Debug\Example_31_Bubble_sort.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_31_Bubble_sort\obj\Debug\Example_31_Bubble_sort.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_31_Bubble_sort\obj\Debug\Example_31_Bubble_sort.pdb

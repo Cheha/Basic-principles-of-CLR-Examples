@@ -1,0 +1,10 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_35_Console\obj\Release\Example_35_Console.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_35_Console\obj\Release\Example_35_Console.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_35_Console\bin\Release\Example_35_Console.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_35_Console\obj\Release\Example_35_Console.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Example_35_Console\obj\Release\Example_35_Console.pdb

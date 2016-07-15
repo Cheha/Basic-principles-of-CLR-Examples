@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_26_Array_definition\bin\Debug\Example_26_Array_definition.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_26_Array_definition\bin\Debug\Example_26_Array_definition.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_26_Array_definition\bin\Debug\Example_26_Array_definition.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_26_Array_definition\obj\Debug\Example_26_Array_definition.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_26_Array_definition\obj\Debug\Example_26_Array_definition.pdb

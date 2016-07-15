@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_15_Scope\bin\Debug\Example_15_Scope.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_15_Scope\bin\Debug\Example_15_Scope.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_15_Scope\bin\Debug\Example_15_Scope.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_15_Scope\obj\Debug\Example_15_Scope.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_15_Scope\obj\Debug\Example_15_Scope.pdb

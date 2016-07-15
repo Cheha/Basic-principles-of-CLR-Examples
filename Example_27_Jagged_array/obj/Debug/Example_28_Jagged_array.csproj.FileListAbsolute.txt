@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_27_Jagged_array\bin\Debug\Example_27_Jagged_array.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_27_Jagged_array\bin\Debug\Example_27_Jagged_array.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_27_Jagged_array\bin\Debug\Example_27_Jagged_array.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_27_Jagged_array\obj\Debug\Example_27_Jagged_array.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_27_Jagged_array\obj\Debug\Example_27_Jagged_array.pdb

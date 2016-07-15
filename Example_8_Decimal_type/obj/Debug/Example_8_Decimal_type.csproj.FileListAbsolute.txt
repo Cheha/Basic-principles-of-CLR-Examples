@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_8_Decimal_type\bin\Debug\Example_8_Decimal_type.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_8_Decimal_type\bin\Debug\Example_8_Decimal_type.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_8_Decimal_type\bin\Debug\Example_8_Decimal_type.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_8_Decimal_type\obj\Debug\Example_8_Decimal_type.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_8_Decimal_type\obj\Debug\Example_8_Decimal_type.pdb

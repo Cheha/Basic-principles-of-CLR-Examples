@@ -1,0 +1,5 @@
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Eaxmple_34_Structures\bin\Release\Eaxmple_34_Structures.exe.config
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Eaxmple_34_Structures\bin\Release\Eaxmple_34_Structures.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Eaxmple_34_Structures\bin\Release\Eaxmple_34_Structures.pdb
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Eaxmple_34_Structures\obj\Release\Eaxmple_34_Structures.exe
+D:\Brain Academy\Basic_Principles_of_CLR_Examples\Eaxmple_34_Structures\obj\Release\Eaxmple_34_Structures.pdb

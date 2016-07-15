@@ -1,0 +1,5 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_2_Simple_Types\bin\Debug\Example_2_Simple_Types.exe.config
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_2_Simple_Types\bin\Debug\Example_2_Simple_Types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_2_Simple_Types\bin\Debug\Example_2_Simple_Types.pdb
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_2_Simple_Types\obj\Debug\Example_2_Simple_Types.exe
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_2_Simple_Types\obj\Debug\Example_2_Simple_Types.pdb

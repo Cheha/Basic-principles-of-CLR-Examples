@@ -1,0 +1,1 @@
+D:\Brain Academy\Bacix_Principles_of_CLR_Examples\Example_33_Enums\bin\Debug\Example_33_Enums.exe.config
